@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 COUNT=1
 #Internal Field Separator (IFS) that is used for word splitting 
 #after expansion and to split lines into words with the read builtin command
